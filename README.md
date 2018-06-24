@@ -1,2 +1,6 @@
-# base16-onedark-scheme
-Contains colors for base16 scheme generation for onedark theme. This is based on the onedark.vim project (https://github.com/joshdick/onedark.vim) as well as the onedark iTerm project (https://github.com/nathanbuchar/atom-one-dark-terminal) with both of those drawing inspiration from the default Atom theme.
+# Base16 Atom One Dark Scheme
+
+Contains the Base16 Atom One Dark colors for scheme generation. 
+
+This scheme is based on the [Atom One Dark](https://github.com/atom/one-dark-syntax) scheme and built upon [onedark.vim](https://github.com/joshdick/onedark.vim) as well as [onedark iTerm](https://github.com/nathanbuchar/atom-one-dark-terminal).
+
